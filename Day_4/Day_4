@@ -1,0 +1,8 @@
+Started learning the book "Hands-On Machine Learning with Sckikit learn, Tensorflow" (O-Rielly)
+
+Today I studied the first chapter of this book and it provide me with the jargons of the machine learning
+
+I learnt about different classes of Machine Learning: (Supervised,Unsupervised),(Model based,Instance based),(Batch Learning,Online Learning) etc.
+
+Then it informed me about the various type of errors that can happen in the machine learing project because of various reasons:
+data mismatch, overfitting and underfitting,etc.
